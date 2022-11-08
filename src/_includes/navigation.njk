@@ -1,0 +1,10 @@
+<nav>
+    <h1 >イカユニオン</h1>
+    <ul>
+        {% for item in navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title}}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
