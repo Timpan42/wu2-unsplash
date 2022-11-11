@@ -1,15 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
+$base-size: 1rem;
+
+
 body {
-    background-color: rgb(255, 243, 107);
+    background-color: #f3dbf3;
     font-family: 'Ubuntu', sans-serif;
 }
 
 nav {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(240, 240, 240);
     color: rgb(255, 0, 0);
     font-family: 'Noto Sans JP', sans-serif;
+}
+nav > ul{
+    display: flex;
+    gap: $base-size;
+    list-style: none;
+    padding: 0;
+}
+
+a{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+
+}
+
+a:hover{
+    background-color: rgb(255, 243, 107);
 }
 
 

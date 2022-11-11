@@ -15,4 +15,4 @@ Efter att byt grid gide så fick jag mycket gjord. Tycker att det gick bra att i
 Hade probelm med att förstå hur man kunde föra in data från Rest countries som tog upp mycket av första lektionens tid. Till slut med jälp från class kamrater och lärare så fick jag det att funka och förstå hur man det skulle användas. Jag hade problem med att jobba med grid med orginal giden jag hade använt. Efter att byt till en av dem andra så gick det bätre att arbeta.
 
 ## Sammanfattning   
-Hade en svår tide med att jobba på deta uppgift från början, med efter lite hjälp så gick det framot. Skulle kunnat jobba mer med grid med att jag tyckte det var svårt. 
+Hade en svår tide med att jobba på deta uppgift från början, med efter lite hjälp så gick det framot. Skulle kunnat jobba mer med grid med att jag tyckte det var svårt. Jag tycker det va roligt att jobba med html, css och att lärare sig om hur man kunde få in data in i html. Dock var det svårt från början. 
